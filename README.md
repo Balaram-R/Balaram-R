@@ -33,7 +33,7 @@
   <tr>
     <td>💭</td>
     <td><b>Currently Working on</b></td>
-    <td>Agentic AI</td>
+    <td>Gen AI & Agentic AI</td>
   </tr>
   <tr>
     <td>🤝</td>
